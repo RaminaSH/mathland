@@ -1,0 +1,15 @@
+{
+"companyName": "Ramina",
+"productName": "Sarzamin Riazi",
+"productVersion": "1.0",
+"dataUrl": "FinalMathLandV2.data.unityweb",
+"wasmCodeUrl": "FinalMathLandV2.wasm.code.unityweb",
+"wasmFrameworkUrl": "FinalMathLandV2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
